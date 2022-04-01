@@ -1,4 +1,6 @@
-# HospitalCare
+<h1 align="center">HospitalCare</h1>
+
+## About 🎯
 O software será dividido em 3 etapas. Na 1ª etapa apenas os cadastros básicos serão implementados. Na 2ª etapa o software contará com um controle de atendimentos realizados, englobando os procedimentos solicitados no atendimento, registro de óbito, bem como os pagamentos efetuados. A 3ª etapa contempla os relatórios do sistema.
 
 1ª Etapa:
